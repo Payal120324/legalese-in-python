@@ -32,9 +32,13 @@ ________________________________________________________________________________
 TECHNOLOGY STACK
 
 @ Python is the programming language.
+
 @ User Interface: Flask or Tkinter
+
 @ Text Processing: NLP libraries, PyPDF2, and Pytesseract
+
 @ Processing Images: PIL (Pillow)
+
 @ Development Tools: Jupyter Notebook, VS Code, and Git
 
 ____________________________________________________________________________________________
